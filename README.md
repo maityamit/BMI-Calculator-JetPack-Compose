@@ -6,6 +6,10 @@
 |:----------------------------------------:|:-----------------------------------------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank"> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank">  |
  
+ <p align="center">
+ <a href=""><img src="https://github.com/maityamit/BMI-Calculator-JetPack-Compose/blob/master/Demo/pr_amit.svg" width="50%" /></a>
+ </p>
+ 
  ## 🤔 What is this App
  
  ✍️ Here is "BMI Calculator". You can view your BMI by inputting your height and weight with just one click.
@@ -39,6 +43,11 @@
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 | ![Imgur](Demo/1.png) | ![Imgur](Demo/2.png) | ![Imgur](Demo/3.png) |
   
+ 
+ 
+ <p align="center">
+ <a href=""><img src="https://github.com/maityamit/BMI-Calculator-JetPack-Compose/blob/master/Demo/previeww.gif" width="20%" /></a>
+ </p>
   
   
   <h2 align="center">📝 Created by </h2>
