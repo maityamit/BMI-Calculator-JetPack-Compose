@@ -1,6 +1,6 @@
 # BMI Calculator ( Using - Jetpack Compose )
 
-[Download App](https://drive.google.com/file/d/1OXT7n2-iT-DbYn90jI0qzz9MS6RDLmcr/view?usp=sharing)
+[⬇️Download App](https://drive.google.com/file/d/1OXT7n2-iT-DbYn90jI0qzz9MS6RDLmcr/view?usp=sharing)
 
 |||
 |:----------------------------------------:|:-----------------------------------------:|
